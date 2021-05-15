@@ -13,7 +13,7 @@ public class matrixmul {
         System.out.println("enter ->");
         int [][]arr1=new int[r1][c1];
 
-        // r1 can be written as 
+        // r1 can be written as arr1.length and c1 can be written as arr1[0].length
         for(int i=0;i<r1;i++)
         {
             for(int j=0;j<c1;j++)
